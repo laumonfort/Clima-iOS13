@@ -1,18 +1,20 @@
 
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
+Clima App clone from the Swift Udemy iOS Bootcamp by Angela Yu. Currently, I am working on it and I will add some custom features.
+
 #  Clima
 
-## Our Goal
+## Main Goal
 
-It’s time to take our app development skills to the next level. We’re going to introduce you to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet. If you’re dreaming of making that Twitter-powered stock trading app then you’re about add some serious tools to your toolbelt!
+Introduction to the wonderful world of Application Programming Interfaces (APIs) to grab live data from the internet.
 
 
-## What you will create
+## What will be created
 
-By the end of the module, you will have made a beautiful, dark-mode enabled weather app. You'll be able to check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
+I will have made a beautiful, dark-mode enabled weather app. Users can check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually. 
 
-## What you will learn
+## What I am learning:
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
